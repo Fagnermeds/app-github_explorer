@@ -9,6 +9,8 @@ When searching for a repository it is listed. We saved the searched repository i
 
 ![Dashboard page](https://github.com/Fagnermeds/app-github_explorer/blob/master/dashboard.png)
 
+### Repository page
+
 The second page is Repository, showing more details of the repository clicked on the Dashboad page.
 
 ![Respository page](https://github.com/Fagnermeds/app-github_explorer/blob/master/repository.png)
